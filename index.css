@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    background-color: black;
+    box-shadow: 5px 5px white;
+    color: white;
+    height: auto;
+    width: 270px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.btn{
+    height: auto;
+    width: 40px;
+    margin: 5px;
+}
+
+h4 {
+    padding: 10px;
+}
+
+header {
+    display: flex;
+}
+
+header img {
+    height: 49px;
+}
